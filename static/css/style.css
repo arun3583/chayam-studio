@@ -46,10 +46,10 @@ ul{
 label{
 	margin:0;
 }
-.w3l-overlay {
+/* .w3l-overlay {
     background: url(../images/overlay.png)repeat;
     min-height:794px;
-}
+} */
 /*-- header --*/ 
 h1 a.navbar-brand {
     font-size: 1.05em;
@@ -147,7 +147,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 /*-- //banner-text --*/
 /*-- banner-top --*/
 .main-agile{
-    background: url(../images/b2.jpg) no-repeat 0px 0px;
+    background: url(../images/home.jpeg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -378,7 +378,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     top: 22%;
     left: 55%;
     padding: 3em 2em;
-    background: #0de2f6;
+    background: #0a0c0c;
 	z-index: 99;
 }
 .about-w3l-agileifo-grid {
@@ -1227,7 +1227,7 @@ h3.title-w3l {
 		min-height: 700px;
 	}
 	.agileits-banner-info {
-		padding: 17em 0 0em;
+		padding: 3em 0 0em;
 	}
 	.ab-agile-top {
 		top: 24%;
